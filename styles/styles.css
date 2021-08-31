@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.Hero {
+  display: flex;
+  justify-content: center;
+  padding: 100px;
+}
+
+.Hero__tasks {
+  padding-left: 50px;
+  color: black;
+}
+
+.Hero__task-item {
+  margin-bottom: 15px;
+}
